@@ -1,0 +1,9 @@
+Exercícios 31/10/2016
+
+1) Crie um vetor de inteiros que receba 10 valores e exiba a quantidade
+de números positivos e a quantidade de números negativos.
+2) Crie 2 vetores. Receba 10 letras em um deles e copie as letras para o outro vetor
+em ordem inversa.
+3) Crie um vetor de números reais de acordo com o tamanho definido pelo usuário. Crie
+uma constante com o valor 7,17. Peça para o usuário inserir os números,à seguir
+multiplique pela constante.
